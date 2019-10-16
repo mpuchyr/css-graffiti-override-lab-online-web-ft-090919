@@ -17,3 +17,7 @@
 #wall .parent + div.parent #tag-5.slick {
   display: none
 }
+
+#wall .parent:nth-child(2) #tag-6 {
+  display: none
+}
